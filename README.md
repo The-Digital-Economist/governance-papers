@@ -1,27 +1,33 @@
-#  Governance Papers | The Digital Economist
+# 🏛️ Governance Papers | The Digital Economist
 
-This repository presents research on emerging governance models that prioritize inclusion, decentralization, and digital-era accountability. The papers explore how institutional design can evolve to meet the demands of an interconnected, rapidly changing world.
-
----
-
-##  Papers & Publications
-
-### [GovTech and Gender Equity](https://github.com/The-Digital-Economist/governance-papers/blob/main/govtech-and-gender-equity.pdf)  
-*Designing inclusive digital governance systems through a gender lens.*  
-> This paper highlights the intersection of government technology and gender equity, advocating for inclusive digital tools and data frameworks that address systemic bias and promote meaningful participation in policy and public service delivery.
+This repository explores emerging governance models that prioritize inclusion, decentralization, and accountability in the digital age. These papers examine how institutional design and digital public infrastructure must evolve to meet the challenges of a rapidly shifting, interconnected world.
 
 ---
 
-### [Reimagining Digital Commons: A Structured Approach to Decentralized Governance](https://github.com/The-Digital-Economist/governance-papers/blob/main/reimagining-digital-commons-a-structured-approach-to-decentralized-governance.pdf)  
-*Frameworks for participatory, decentralized systems of collective governance.*  
-> Offers a structured approach to digital commons design, drawing on institutional theory, platform governance, and decentralized technologies. Proposes models for trustless coordination, transparency, and sustainable stewardship of digital public goods.
+## 📄 Papers & Publications
+
+1. [GovTech and Gender Equity](./govtech-and-gender-equity.pdf)  
+   Designing inclusive digital governance systems through a gender lens.  
+   This paper examines how government technology can address systemic gender bias by building inclusive digital tools and data frameworks. It advocates for equitable participation in public policy, ensuring that digital systems support a more just and representative society.
+
+2. [Reimagining Digital Commons: A Structured Approach to Decentralized Governance](./reimagining-digital-commons-a-structured-approach-to-decentralized-governance.pdf)  
+   Frameworks for participatory, trustless systems of collective coordination.  
+   Drawing from institutional theory, platform governance, and blockchain design, this paper outlines models for building resilient digital commons. It proposes new approaches to collective stewardship, emphasizing transparency, inclusivity, and long-term sustainability.
 
 ---
 
-##  Contributing
+📚 **Access the full collection** at [thedigitaleconomist.com/center-of-excellence](https://www.thedigitaleconomist.com/center-of-excellence)
 
-Have a paper on governance innovation, digital public infrastructure, or institutional reform?  
-We welcome your contributions — submit a pull request or contact us to collaborate.
+---
+
+## 🤝 Contribute to the Conversation
+
+Are you working on governance models for the digital era?
+
+We welcome contributions on governance models that support participatory, transparent, and resilient systems. Whether focused on decentralized networks, civic tech, or digital rights, your insights can inform new frameworks for twenty-first-century governance.
+
+- Open a pull request in this repository  
+- Or email us: [fellowships@thedigitaleconomist.com](mailto:fellowships@thedigitaleconomist.com)
 
 ---
 
