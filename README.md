@@ -1,10 +1,10 @@
-# 🏛️ Governance Papers | The Digital Economist
+# Governance Papers | The Digital Economist
 
 This repository explores emerging governance models that prioritize inclusion, decentralization, and accountability in the digital age. These papers examine how institutional design and digital public infrastructure must evolve to meet the challenges of a rapidly shifting, interconnected world.
 
 ---
 
-## 📄 Papers & Publications
+## Papers & Publications
 
 1. [GovTech and Gender Equity](./govtech-and-gender-equity.pdf)  
    Designing inclusive digital governance systems through a gender lens.  
@@ -16,11 +16,11 @@ This repository explores emerging governance models that prioritize inclusion, d
 
 ---
 
-📚 **Access the full collection** at [thedigitaleconomist.com/center-of-excellence](https://www.thedigitaleconomist.com/center-of-excellence)
+**Access the full collection** at [thedigitaleconomist.com/center-of-excellence](https://www.thedigitaleconomist.com/center-of-excellence)
 
 ---
 
-## 🤝 Contribute to the Conversation
+## Contribute to the Conversation
 
 Are you working on governance models for the digital era?
 
